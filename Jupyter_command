@@ -1,0 +1,2 @@
+jupyter notebook --notebook-dir=C:/
+conda install -c conda-forge nb_conda_kernels
